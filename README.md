@@ -9,3 +9,8 @@ Also, learnt about Rest and destructuring in objects and completed the assignmen
 Learned about Document object model in JavaScript and various ways of selecting an element in JS.
 Excited to learn more tomorrow. 
 Stay tuned. 😁
+
+## Day 3 of #7daysofWebDev ❤️‍🔥📷
+Learned about query selectors, setting content in objects and manipulating attributes.
+Couldn't study much, since it's diwali. But, still showed up. 
+Looking for more work to be done, tomorrow. :D
