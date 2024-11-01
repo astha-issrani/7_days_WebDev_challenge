@@ -14,3 +14,6 @@ Stay tuned. 😁
 Learned about query selectors, setting content in objects and manipulating attributes.
 Couldn't study much, since it's diwali. But, still showed up. 
 Looking for more work to be done, tomorrow. :D
+
+## Day 4 of #7daysofWebDev ❤️‍🔥📷
+Learned about classList property, navigation on page, adding and removing elements on page.
